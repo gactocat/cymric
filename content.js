@@ -1,1 +1,2 @@
-module.exports = "It works from content.js.";
+let message = "It works from content.js in es2015."
+module.exports = message;
